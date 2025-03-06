@@ -1,2 +1,2 @@
-# study-spaces-UBC
-Application to find availability of study spaces around UBC
+# Study Spaces UBC
+This application is intended to see the availability of study spaces around UBC. In progress.
